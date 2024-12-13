@@ -34,13 +34,13 @@ For the PyTorch implementation, the raw numerical data was used directly without
 
 For TensorFlow/Keras model
 
-* Test Loss (MSE): 0.0561
+* Test Loss (MSE): 0.0583
 
-* Test Mean Absolute Error (MAE): 0.1549
+* Test Mean Absolute Error (MAE):  0.1540
 
 For PyTorch model
 
-* Test R-Squared (R² Score): 0.8901
+* Test R-Squared (R² Score): 0.9321
 
 The TensorFlow/Keras model showed strong performance with low test loss and MAE, while the PyTorch model achieved a high R² score, indicating that it effectively explained the variance in the GPA values.
 
